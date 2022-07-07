@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- Device Repository -->
+    <project path="device/xiaomi/joyeuse" name="platform_device_xiaomi_joyeuse" remote="nekoshirro" revision="evox-12"/>
+    <project path="device/xiaomi/sm6250-common" name="platform_device_xiaomi_sm6250-common" remote="nekoshirro" revision="evox-12"/>
+
+</manifest>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- Kernel Repository -->
+    <project path="kernel/xiaomi/sm6250" name="kernel_xiaomi_sm6250" remote="sairam" revision="twelve-kcal"/>
+
+    <!-- Proton Clang -->
+    <project name="proton-clang" path="prebuilts/clang/host/linux-x86/clang-proton" remote="kdrag0n" revision="master" />
+
+</manifest>
