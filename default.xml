@@ -13,4 +13,8 @@
     <remote   name="kdrag0n"
               fetch="https://github.com/kdrag0n"/>
 
+    <!-- Github SonalSingh Remote Repository -->
+    <remote   name="sonal"
+              fetch="https://github.com/SonalSingh18"/>
+
 </manifest>

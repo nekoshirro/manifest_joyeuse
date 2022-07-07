@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- Vendor Repository -->
+    <project path="vendor/xiaomi/miuicamera" name="vendor_xiaomi_miuicamera" remote="sonal" revision="12"/>
+
+</manifest>
