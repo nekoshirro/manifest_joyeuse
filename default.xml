@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- Fusion OS Hafidz Muzakky's Remote -->
+    <remote   name="nekoshirro"
+              fetch="https://github.com/nekoshirro"/>
+
+    <!-- Github Sairam Remote Repository -->
+    <remote   name="sairam"
+              fetch="https://github.com/sairam1411"/>
+
+    <!-- Github kdrag0n Remote Repository -->
+    <remote   name="kdrag0n"
+              fetch="https://github.com/kdrag0n"/>
+
+</manifest>

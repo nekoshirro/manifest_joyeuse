@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- Vendor Repository -->
+    <project path="vendor/xiaomi/joyeuse" name="platform_vendor_xiaomi_joyeuse" remote="nekoshirro" revision="twelve"/>
+    <project path="vendor/xiaomi/sm6250-common" name="platform_vendor_xiaomi_sm6250-common" remote="nekoshirro" revision="twelve"/>
+
+</manifest>
